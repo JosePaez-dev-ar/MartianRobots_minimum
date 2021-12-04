@@ -1,0 +1,16 @@
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.csproj.AssemblyReference.cache
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.AssemblyInfoInputs.cache
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.AssemblyInfo.cs
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.csproj.CoreCompileInputs.cache
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\MartianRobots.Console.exe
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\MartianRobots.Console.deps.json
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\MartianRobots.Console.runtimeconfig.json
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\MartianRobots.Console.runtimeconfig.dev.json
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\MartianRobots.Console.dll
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\ref\MartianRobots.Console.dll
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\bin\Debug\net5.0\MartianRobots.Console.pdb
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.dll
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\ref\MartianRobots.Console.dll
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.pdb
+D:\MartianRobots\MartianRobots\src\MartianRobots.Console\obj\Debug\net5.0\MartianRobots.Console.genruntimeconfig.cache

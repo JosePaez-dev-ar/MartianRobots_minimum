@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianRobots.Console", "src\MartianRobots.Console\MartianRobots.Console.csproj", "{DA23E8A6-13BB-41D2-A698-640842229300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA23E8A6-13BB-41D2-A698-640842229300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA23E8A6-13BB-41D2-A698-640842229300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA23E8A6-13BB-41D2-A698-640842229300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA23E8A6-13BB-41D2-A698-640842229300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65A4EB7-B73F-4756-BC88-E6BDCFA17AE8}
+	EndGlobalSection
+EndGlobal
