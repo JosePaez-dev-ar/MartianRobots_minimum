@@ -8,8 +8,11 @@ La superficie de Marte se puede modelar mediante una cuadrícula rectangular alr
 La posición de un robot consta de una coordenada de cuadrícula (un par de números enteros: coordenada x seguida de coordenada y) y una orientación (N, S, E, W para norte, sur, este y oeste). Una instrucción de robot es una cadena de letras "L", "R" y "F" que representan, respectivamente, las instrucciones:
 
 ● Izquierda: el robot gira a la izquierda 90 grados y permanece en el punto de cuadrícula actual.
+
 ● Derecha: el robot gira a la derecha 90 grados y permanece en el punto de cuadrícula actual.
+
 ● Adelante: el robot avanza un punto de la cuadrícula en la dirección de la orientación actual y mantiene la misma orientación.
+
 
 La dirección Norte corresponde a la dirección desde el punto de la cuadrícula (x, y) al punto de la cuadrícula (x, y + 1).
 
