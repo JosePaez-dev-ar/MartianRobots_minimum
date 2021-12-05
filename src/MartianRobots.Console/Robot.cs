@@ -64,7 +64,7 @@ namespace MartianRobots.Console
                     .Append(' ')
                     .Append(Orientacion)
                     .Append(' ')
-                    .Append(EstaPerdido ? "LOST" : "");
+                    .Append(EstaPerdido ? "PERDIDO" : "");
             }
             return builder.ToString();
         }
