@@ -37,7 +37,7 @@ namespace MartianRobots.Console
 
             foreach (var entrada in entradas)
             {
-                console.WriteLine(entrada.Key); console.WriteLine(entrada.Value);
+                console.WriteLine(entrada.Key); 
 
                 str = entrada.Key.Split(" ");
                 X = Int32.Parse(str[0]); Y = Int32.Parse(str[1]); O = Helper.ObtenerOrientacion(str[2]);
